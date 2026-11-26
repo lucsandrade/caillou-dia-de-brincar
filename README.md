@@ -1,6 +1,6 @@
 # 🎈 Caillou: Dia de Brincar!
 
-Coletânea interativa de 9 minijogos educativos em português do Brasil (pt-BR), desenvolvida especialmente para crianças de 3 anos com interface responsiva para dispositivos móveis, ilustrações vetoriais em SVG e narração/efeitos sonoros integrados.
+Coletânea interativa de 14 minijogos educativos em português do Brasil (pt-BR), desenvolvida especialmente para crianças de 3 anos com interface responsiva para dispositivos móveis, ilustrações vetoriais em SVG e narração/efeitos sonoros integrados.
 
 > *Interactive toddler-friendly educational web game collection in Brazilian Portuguese (pt-BR) featuring 9 mini-games, custom 2D SVG illustrations, Web Audio API sound effects, and Gemini TTS / Web Speech voice narration — built using React, TypeScript, and Google AI Studio.*
 
