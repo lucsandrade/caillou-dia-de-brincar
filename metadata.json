@@ -1,0 +1,8 @@
+{
+  "name": "Caillou: Dia de Brincar!",
+  "description": "Coletânea interativa e colorida de 4 minijogos educativos em português do Brasil para crianças de 3 anos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
