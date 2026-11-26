@@ -1,4 +1,5 @@
 # 🎈 Caillou: Dia de Brincar!
+https://caillou-dia-de-brincar.ai.studio/](https://caillou-dia-de-brincar.ai.studio/
 
 Coletânea interativa de 14 minijogos educativos em português do Brasil (pt-BR), desenvolvida especialmente para crianças de 3 anos com interface responsiva para dispositivos móveis, ilustrações vetoriais em SVG e narração/efeitos sonoros integrados.
 
